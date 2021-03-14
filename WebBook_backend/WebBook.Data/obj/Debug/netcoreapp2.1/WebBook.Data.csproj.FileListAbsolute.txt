@@ -1,0 +1,26 @@
+C:\Users\lenovo\source\repos\WebBook\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.deps.json
+C:\Users\lenovo\source\repos\WebBook\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\lenovo\source\repos\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.deps.json
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.deps.json
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Data\obj\Debug\netcoreapp2.1\WebBook.Data.pdb

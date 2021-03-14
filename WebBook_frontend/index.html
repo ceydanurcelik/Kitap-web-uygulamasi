@@ -1,0 +1,325 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css">
+    <link rel="stylesheet" href="custom.css">
+    <title>Okuduklarım</title>
+
+</head>
+
+<body style="display: none;">
+    <nav class="navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar">
+        <a class="navbar-brand" href="#">okuduklarım <i class="fas fa-book-reader"></i></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarColor03">
+            <ul class="navbar-nav mr-auto">
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html"><i class="fas fa-book"></i> Kitaplar</a>
+                </li>
+                <li class="nav-item active">
+                    <span id="usertext"></span>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="javascript:void(0)" onclick="logout()">
+                        <i class="fas fa-sign-out-alt"></i>
+                        Çıkış
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+
+
+
+
+
+
+
+
+    <div class="container">
+        <div id="filters" class="button-group" style="font-size: smaller;padding:15px 0px;">
+
+
+            <span id="linkOkumafiltreBtn-' + syc + '" onclick="filtreoku('okunankitap')" class="link1 activeLink"> Okuduğum Kitaplar</span>
+            <span id="linkBegenifiltreBtn-' + syc + '" onclick="filtreoku('begenikitap')" class="link1 activeLink"> Beğendiğim Kitaplar</span>
+            <span id="linkKaldirfiltreBtn-' + syc + '" onclick="filtreoku('filtrekaldir')" class="link1 activeLink"> Filtrelemeyi Kaldır</span>
+
+
+            <!--<button class="link1" data-filter="*">   Okuduğum Kitaplar   </button>
+            <button class="link1" data-filter=".es">   Beğendiğim Kitaplar  </button>-->
+        </div>
+    </div>
+
+
+
+    <div class="container">
+        <div id="filters" class="button-group" style="font-size: smaller;padding:15px 0px;">
+
+            <span id="linkAlfabetiksiralamaBtn-' + syc + '" onclick="siralamaoku('siralaalfabetik')" class="link1 activeLink"> Alfabetik Sıralama</span>
+            <span id="linkBegenilmesiralamaBtn-' + syc + '" onclick="siralamaoku('siralabegeni')" class="link1 activeLink"> Beğenilme Sayısına Göre Sıralama</span>
+            <span id="linkEklenmeİlksiralaBtn-' + syc + '" onclick="siralamaoku('siralailk')" class="link1 activeLink"> Eklenme Tarihine(İlk) Göre Sıralama </span>
+            <span id="linkEklenmeSonsiralaBtn-' + syc + '" onclick="siralamaoku('siralason')" class="link1 activeLink"> Eklenme Tarihine(Son) Göre Sıralama </span>
+
+
+        </div>
+    </div>
+
+
+
+
+
+    <div class="container">
+        <a href="addBook.html" class="btn btn-primary btn-lg link3Fixed" style="
+        color: #fff !important;
+    "><i class="fas fa-plus"></i></a>
+        <div class="row book" id="bookList"></div>
+    </div>
+
+
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="jquery.session.js "></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+
+    <script>
+        $.ajaxSetup({
+            async: false
+        });
+        $(document).ready(function () {
+
+
+
+            if ($.session.get("User") == undefined) {
+                $(location).attr('href', 'login.html');
+            } else {
+                $("body").fadeIn();
+                $("#usertext").html($.session.get("User"));
+            }
+            $.ajaxSetup({
+                async: false
+            });
+            //
+
+            var deneme2 = 0;
+            if (deneme2 == 0) {
+
+
+                $.getJSON("http://localhost:62101/api/book/GetBookList",
+                    function (data) {
+                        var syc = 0;
+                        var syc2 = 0;
+                        var yorum = "";
+                        var like = 0;
+                        var isLike = "";
+                        var read = 0;
+                        var isRead = "";
+                        var commentSyc = 0;
+                        var bayrakokunan = 0;
+                        var bayrakbegeni = 0;
+                        var fileselection = "";
+                        var bayrak = 0;
+                        var begeni = 0;
+                        var i = 0;
+
+
+
+
+
+
+
+
+
+
+                        $.each(data, function (key, val) {
+                            fileselection = " ";
+                            yorum = "";
+                            commentSyc = 0;
+                            bayrakbegeni = 0;
+                            bayrakokunan = 0;
+                            bayrak = 0;
+                            //
+
+
+
+                            $.ajaxSetup({
+                                async: false
+                            });
+                            if (true) {
+
+                                $.getJSON("http://localhost:62101/api/comment/GetCommentList",
+                                    function (data2) {
+                                        $.each(data2, function (key2, val2) {
+                                            if (val2.book == val.title) {
+                                                yorum += '<div class="comment-item">' +
+                                                    '<b>' + val2.user + '</b>' +
+                                                    '<p>' + val2.commentText + '</p>' +
+                                                    '</div>';
+                                                commentSyc++;
+                                            }
+                                        });
+
+                                    });
+                                like = 0;
+                                read = 0;
+                                //
+
+
+
+
+
+
+                                $.getJSON("http://localhost:62101/api/like/Like",
+                                    function (data2) {
+                                        $.each(data2, function (key2, val2) {
+                                            if (val2.book == val.title) {
+                                                like++;
+                                            }
+                                        });
+
+                                    });
+
+                                isLike = '<span id="linkLikeBtn-' + syc + '" onclick="likeBtn(' + syc + ',\'' + val.title + '\')" class="link1"><i class="far fa-thumbs-up"></i> Beğen</span>';
+                                //
+
+                                $.getJSON("http://localhost:62101/api/like/Like",
+                                    function (data3) {
+                                        $.each(data3, function (key3, val3) {
+                                            console.log(data3)
+                                            if (val3.book == val.title && val3.user == $.session.get("User")) {
+                                                isLike = '<span class="link1 activeLink"><i class="fas fa-thumbs-up"></i> Beğendin</span>';
+                                                bayrakbegeni++;
+                                                return false;
+                                            } else {
+                                                isLike = '<span id="linkLikeBtn-' + syc + '" onclick="likeBtn(' + syc + ',\'' + val.title + '\')" class="link1"><i class="far fa-thumbs-up"></i> Beğen</span>';
+                                            }
+                                        });
+
+                                    });
+
+
+                                $.getJSON("http://localhost:62101/api/filter/Filter",
+
+                                    function (data6) {
+
+                                        console.log(data6);
+                                        fileselection = data6.selection;
+
+                                    });
+
+
+                                $.getJSON("http://localhost:62101/api/read/Read",
+                                    function (data4) {
+                                        $.each(data4, function (key4, val4) {
+                                            if (val4.book == val.title) {
+                                                read++;
+                                            }
+                                        });
+
+                                    });
+
+                                isRead = '<span id="linkReadBtn-' + syc + '" onclick="readBtn(' + syc + ',\'' + val.title + '\')" class="link1"><i class="far fa-thumbs-up"></i> Okumadım</span>';
+
+
+
+
+
+                                $.getJSON("http://localhost:62101/api/read/Read",
+                                    function (data5) {
+                                        $.each(data5, function (key5, val5) {
+                                            console.log(data5)
+                                            if (val5.book == val.title && val5.user == $.session.get("User")) {
+                                                isRead = '<span class="link1 activeLink"><i class="fas fa-thumbs-up"></i> Okudum</span>';
+                                                bayrakokunan++;
+                                                return false;
+                                            } else {
+                                                isRead = '<span id="linkReadBtn-' + syc + '" onclick="readBtn(' + syc + ',\'' + val.title + '\')" class="link1"><i class="far fa-thumbs-up"></i> Okumadım</span>';
+                                            }
+                                        });
+
+                                    });
+                                //
+                                var div = '<div class="col-md-12" style="background-color: #f0f0f0;border-radius: 20px;">' +
+                                    '<div style="padding: 30px 50px;"><i class="fas fa-user"></i> ' + val.user + '<br><br>' +
+                                    '<h3>' + val.title + '</h3>' +
+                                    '<h6>' + val.author + '</h6>' +
+                                    '<p style="text-align: justify;font-size: smaller;line-height: 25px;">' + val.comment + '</p>' +
+                                    '<div class="tpLike">' +
+                                    '<span id="likeCount-' + syc + '">' + like + '</span> beğeni • <span id="commentCount-' + syc + '">' + commentSyc + '</span> yorum' +
+                                    '</div>' +
+                                    '<div style="font-size: smaller;padding:15px 0px;">' +
+                                    '<span id="likeBtn-' + syc + '">' +
+                                    isLike +
+                                    '</span>' +
+                                    '<span id="readBtn-' + syc + '">' +
+                                    isRead +
+                                    '</span>' +
+                                    '</div> </div>' +
+                                    ' <div id="commentList-' + syc + '" class="commentList">' +
+                                    '<h5>Yorum Yap</h5><div contenteditable="true" class="comment-txt" id="comment-txt-' + syc + '"></div>' +
+                                    '<span class="link2" onclick="addComment(' + syc + ',\'' + val.title + '\',\'' + $.session.get("User") + '\')"><i class="far fa-paper-plane"></i></span>' +
+                                    yorum + '</div>';
+                                //
+
+
+
+                                if (bayrakokunan == 1 && fileselection == "okunankitap") {
+                                    $('#bookList').append(div);
+                                    bayrak = 1;
+                                }
+
+
+                                if (bayrakbegeni == 1 && fileselection == "begenikitap") {
+                                    $('#bookList').append(div);
+                                    bayrak = 1;
+                                }
+
+                                if (fileselection == "filtrekaldir") {
+                                    $('#bookList').append(div);
+                                }
+
+
+
+
+
+                                syc++;
+
+                            }
+
+
+                        });
+
+
+
+
+
+
+                    });
+
+
+
+
+            }
+
+
+        });
+    </script>
+    <script src="custom.js "></script>
+</body>
+
+</html>

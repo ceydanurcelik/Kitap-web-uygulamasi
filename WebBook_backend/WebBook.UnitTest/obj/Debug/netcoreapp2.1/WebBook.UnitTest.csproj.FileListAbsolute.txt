@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\bin\Debug\netcoreapp2.1\WebBook.UnitTest.deps.json
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\bin\Debug\netcoreapp2.1\WebBook.UnitTest.runtimeconfig.json
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\bin\Debug\netcoreapp2.1\WebBook.UnitTest.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\bin\Debug\netcoreapp2.1\WebBook.UnitTest.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\bin\Debug\netcoreapp2.1\WebBook.UnitTest.pdb
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\obj\Debug\netcoreapp2.1\WebBook.UnitTest.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\obj\Debug\netcoreapp2.1\WebBook.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\obj\Debug\netcoreapp2.1\WebBook.UnitTest.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\obj\Debug\netcoreapp2.1\WebBook.UnitTest.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\obj\Debug\netcoreapp2.1\WebBook.UnitTest.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.UnitTest\obj\Debug\netcoreapp2.1\WebBook.UnitTest.pdb

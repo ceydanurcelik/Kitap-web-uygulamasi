@@ -1,0 +1,85 @@
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.deps.json
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.runtimeconfig.json
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.pdb
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorAssemblyInfo.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorAssemblyInfo.cs
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.pdb
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\lenovo\source\repos\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.deps.json
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.runtimeconfig.json
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.deps.json
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.runtimeconfig.json
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.dll
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.pdb
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.dll
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.pdb
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.deps.json
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.runtimeconfig.json
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Api.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Api\obj\Debug\netcoreapp2.1\WebBook.Api.genruntimeconfig.cache

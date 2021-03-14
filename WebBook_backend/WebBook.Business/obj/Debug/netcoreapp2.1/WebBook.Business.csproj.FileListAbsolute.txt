@@ -1,0 +1,48 @@
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.deps.json
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\lenovo\source\repos\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.deps.json
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBook\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.deps.json
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBookkk\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.deps.json
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Business.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Data.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\bin\Debug\netcoreapp2.1\WebBook.Data.pdb
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.dll
+C:\Users\ASUS\Desktop\WebBook - Kopya son2\WebBook.Business\obj\Debug\netcoreapp2.1\WebBook.Business.pdb
